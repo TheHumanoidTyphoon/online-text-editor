@@ -41,4 +41,4 @@ Contributions to this project are welcome. If you find any bugs or issues, pleas
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE]() file for more information.
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/TheHumanoidTyphoon/online-text-editor/blob/master/LICENSE) file for more information.
