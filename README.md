@@ -1,6 +1,6 @@
 # Online Text Editor
 
-This is a web-based text editor built with HTML, CSS, and JavaScript. The editor allows users to format text, create lists, add links, change font size, typeface, and color, align text, and perform undo/redo .
+This is a web-based text editor built with HTML, CSS, and JavaScript. The editor allows users to format text, create lists, add links, change font size, typeface, and color, align text, and perform undo/redo operations.
 
 ## Getting Started
 
